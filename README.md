@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David Benjumea
 
-<!--
-**DavidFBM/DavidFBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas y Computación en la **Universidad Nacional de Colombia - Sede Bogotá**  
+💻 Apasionado por la tecnología, el desarrollo de software y la resolución de problemas con código  
+🌱 Actualmente explorando proyectos con **Python**, **Java**, **JavaScript**, **HTML** y **CSS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+
+- Lenguajes: `Python` · `Java` · `JavaScript` · `HTML` · `CSS`
+- Control de versiones: `Git` · `GitHub`
+- Entornos: `Jupyter Notebooks` · `VS Code` . `Eclipse`
+- Bases de datos: `MySQL` (nivel básico)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Siempre abierto a colaborar y seguir aprendiendo 🚀
